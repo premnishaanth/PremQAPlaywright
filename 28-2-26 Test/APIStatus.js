@@ -1,3 +1,5 @@
+
+let statuscode = 200;
 switch (statuscode) {
     case 200:
         console.log("PASS - OK: Request successful");
